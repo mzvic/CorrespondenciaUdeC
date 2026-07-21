@@ -1,0 +1,8 @@
+# Base de datos y registros
+historial_correspondencia.csv
+*.db
+*.sqlite
+*.sqlite3
+
+# Carpetas de subidas
+archivos_adjuntos/
